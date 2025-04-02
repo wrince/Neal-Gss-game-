@@ -101,4 +101,4 @@ for (let i = 0; i < 9; i++) {
     cell.classList.add("cell");
     cell.addEventListener("click", () => playerMove(cell, i));
     ticTacToe.appendChild(cell);
-}
+            }
